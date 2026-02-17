@@ -1,4 +1,4 @@
-Afin de réaliser l’assemblage des moteurs, il est maintenant nécessaire de déterminer et de choisir les
+Afin de réaliser l’assemblage des moteurs, il est nécessaire de déterminer et de choisir les
 roulements nécessaires à son bon fonctionnement. Pour ce faire, nous avons utilisé le site catalogue
 « traceparts » qui regroupe un très grand nombre de références de roulements mais également tout
 type de composants mécaniques ainsi que leurs fichier CAO.
